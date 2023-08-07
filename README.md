@@ -27,8 +27,10 @@ Saya seorang Fresh Graduate jurusan Informatika, Institut Sains & Teknologi AKPR
 
 ### Let's connect!
 <p>
-    <a href="https://www.instagram.com/billy_lutfan_/" target="blank"><img src="https://img.shields.io/badge/billy_lutfan?style=flat&logo=instagram" /></a>
     <a href="https://www.linkedin.com/in/brilly-lutfan-qasthari/" target="blank"><img src="https://img.shields.io/badge/brilly-lutfan-qasthari?style=flat&logo=linkedin" /></a>
+    <a href="https://www.instagram.com/billy_lutfan_/" target="_blank">
+  <img src="https://img.shields.io/badge/Follow%20on%20Instagram-%40namapengguna_anda-orange" alt="Instagram Badge" />
+</a>
 </p>
 
 <!--
