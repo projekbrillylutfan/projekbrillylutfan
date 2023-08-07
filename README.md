@@ -7,16 +7,9 @@ I am a Fresh Graduate majoring in Informatics, AKPRIND Institute of Science & Te
     <img src="https://img.shields.io/badge/IDE-Xcode-blue?&logo=xcode" />
     <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
     <img src="https://img.shields.io/badge/Jupyter%20Notebook-Active-orange?logo=jupyter" alt="Jupyter Notebook Badge" />
-    <!-- Badge Anaconda -->
     <img src="https://img.shields.io/badge/Anaconda-Installed-brightgreen?logo=anaconda" alt="Anaconda Badge" />
-    
-    <!-- Badge Python -->
     <img src="https://img.shields.io/badge/Python-3.x-blue?logo=python" alt="Python Badge" />
-    
-    <!-- Badge TensorFlow -->
     <img src="https://img.shields.io/badge/TensorFlow-Installed-brightgreen?logo=tensorflow" alt="TensorFlow Badge" />
-    
-    <!-- Badge Deep Learning -->
     <img src="https://img.shields.io/badge/Deep%20Learning-Ready-yellow?logo=deepai" alt="Deep Learning Badge" />
 </p>
 
