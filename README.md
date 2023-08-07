@@ -1,11 +1,23 @@
-# Hi Semua 👋 , Saya Brilly Lutfan Qasthari!
+# Hi Everyone 👋 , I'm Brilly Lutfan Qasthari!
 
-Saya seorang Fresh Graduate jurusan Informatika, Institut Sains & Teknologi AKPRIND Yogyakarta. Saat ini sedang mencari peluang karir di Machine Learning dan Data Science. Selama kuliah saya sering mengikuti pelatihan Machine Learning yang diselenggarakan oleh IBM, Digital Talent Kominfo, dan Dicoding. selama pelatihan saya selalu mengerjakan project yang diberikan oleh pelatihan secara lengkap dan tepat waktu. Hal itu bisa saya lakukan dengan tetap fokus kuliah sehingga saya bisa lulus tepat waktu (4 tahun 3 bulan) dengan IPK 3,64. Saya juga memiliki pengalaman magang di Dinas Kominfo Wonogiri sebagai Web Developer dimana saya bertanggung jawab untuk mengembangkan aplikasi Web berdasarkan jadwal kerja Dinas Kominfo Wonogiri. Saya mencari peluang untuk berkontribusi lebih jauh di industri Big Data untuk mendapatkan pengetahuan dan minat yang saya miliki. Terhubung di LinkedIn atau hubungi saya di brilly.lutfan@gmail.com. 
+I am a Fresh Graduate majoring in Informatics, AKPRIND Institute of Science & Technology Yogyakarta. Currently looking for career opportunities in Machine Learning and Data Science. During college I often attended Machine Learning training organized by IBM, Digital Talent Kominfo, and Dicoding. during the training I always worked on projects given by the training completely and on time. I was able to do this by staying focused on my studies so that I could graduate on time (4 years and 3 months) with a GPA of 3.64. I also had an internship experience at the Wonogiri Kominfo Office as a Web Developer where I was responsible for developing Web applications based on the work schedule of the Wonogiri Kominfo Office. I am looking for opportunities to contribute further in the Big Data industry to gain knowledge and interests that I have. Connect on LinkedIn or contact me at brilly.lutfan@gmail.com.
 
 ### Tools:
 <p>
     <img src="https://img.shields.io/badge/IDE-Xcode-blue?&logo=xcode" />
     <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
+    <img src="https://img.shields.io/badge/Jupyter%20Notebook-Active-orange?logo=jupyter" alt="Jupyter Notebook Badge" />
+    <!-- Badge Anaconda -->
+    <img src="https://img.shields.io/badge/Anaconda-Installed-brightgreen?logo=anaconda" alt="Anaconda Badge" />
+    
+    <!-- Badge Python -->
+    <img src="https://img.shields.io/badge/Python-3.x-blue?logo=python" alt="Python Badge" />
+    
+    <!-- Badge TensorFlow -->
+    <img src="https://img.shields.io/badge/TensorFlow-Installed-brightgreen?logo=tensorflow" alt="TensorFlow Badge" />
+    
+    <!-- Badge Deep Learning -->
+    <img src="https://img.shields.io/badge/Deep%20Learning-Ready-yellow?logo=deepai" alt="Deep Learning Badge" />
 </p>
 
 ### Stats:
