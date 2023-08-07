@@ -6,11 +6,17 @@ I am a Fresh Graduate majoring in Informatics, AKPRIND Institute of Science & Te
 <p>
     <img src="https://img.shields.io/badge/IDE-Xcode-blue?&logo=xcode" />
     <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
-    <img src="https://img.shields.io/badge/Jupyter%20Notebook-Active-orange?logo=jupyter" alt="Jupyter Notebook Badge" />
+    <img src="https://img.shields.io/badge/Jupyter%20Notebook-Active-orange?logo=jupyter" alt="Jupyter Notebook Badge" /> <br>
     <img src="https://img.shields.io/badge/Anaconda-Installed-brightgreen?logo=anaconda" alt="Anaconda Badge" />
     <img src="https://img.shields.io/badge/Python-3.x-blue?logo=python" alt="Python Badge" />
-    <img src="https://img.shields.io/badge/TensorFlow-Installed-brightgreen?logo=tensorflow" alt="TensorFlow Badge" />
+    <img src="https://img.shields.io/badge/TensorFlow-Installed-brightgreen?logo=tensorflow" alt="TensorFlow Badge" /> <br>
     <img src="https://img.shields.io/badge/Deep%20Learning-Ready-yellow?logo=deepai" alt="Deep Learning Badge" />
+    <img src="https://img.shields.io/badge/scikit--learn-Ready-blue?logo=scikit-learn" alt="scikit-learn Badge" />
+    <img src="https://img.shields.io/badge/numpy-Installed-blue?logo=numpy" alt="numpy Badge" /> <br>
+    <img src="https://img.shields.io/badge/matplotlib-Installed-blue?logo=matplotlib" alt="matplotlib Badge" />
+    <img src="https://img.shields.io/badge/pytorch-Installed-blue?logo=pytorch" alt="pytorch Badge" />
+    <img src="https://img.shields.io/badge/opencv-Ready-brightgreen?logo=opencv" alt="opencv Badge" /> <br>
+    <img src="https://img.shields.io/badge/YOLO-Ready-brightgreen" alt="YOLO Badge" />
 </p>
 
 ### Stats:
