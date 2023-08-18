@@ -2,22 +2,42 @@
 
 I am a Fresh Graduate majoring in Informatics, AKPRIND Institute of Science & Technology Yogyakarta. Currently looking for career opportunities in Machine Learning and Data Science. During college I often attended Machine Learning training organized by IBM, Digital Talent Kominfo, and Dicoding. during the training I always worked on projects given by the training completely and on time. I was able to do this by staying focused on my studies so that I could graduate on time (4 years and 3 months) with a GPA of 3.64. I also had an internship experience at the Wonogiri Kominfo Office as a Web Developer where I was responsible for developing Web applications based on the work schedule of the Wonogiri Kominfo Office. I am looking for opportunities to contribute further in the Big Data industry to gain knowledge and interests that I have. Connect on LinkedIn or contact me at brilly.lutfan@gmail.com.
 
-### Tools:
+### IDE and Text Editor Tools:
+<p>
+    <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
+    <img src="https://img.shields.io/badge/Jupyter%20Notebook-Active-orange?logo=jupyter" alt="Jupyter Notebook Badge" />
+</p>
+
+### Version Control System Tools :
+<p>
+    <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white" alt="Git Logo">
+    <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white" alt="GitHub Logo">
+</p>
+
+### Virtual Environments Tools :
+<p>
+    <img src="https://img.shields.io/badge/Anaconda-Installed-brightgreen?logo=anaconda" alt="Anaconda Badge" />
+</p>
+
+### Database Management Tools :
+<p>
+    <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL Logo">
+    <img src="https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white" alt="PostgreSQL Logo">
+</p>
+
+### Data Scientist Tools :
 <p>
     <img src="https://img.shields.io/badge/YOLO-Ready-brightgreen" alt="YOLO Badge" />
-    <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
-    <img src="https://img.shields.io/badge/Jupyter%20Notebook-Active-orange?logo=jupyter" alt="Jupyter Notebook Badge" /> <br>
-    <img src="https://img.shields.io/badge/Anaconda-Installed-brightgreen?logo=anaconda" alt="Anaconda Badge" />
-    <img src="https://img.shields.io/badge/Python-3.x-blue?logo=python" alt="Python Badge" />
-    <img src="https://img.shields.io/badge/TensorFlow-Installed-brightgreen?logo=tensorflow" alt="TensorFlow Badge" /> <br>
-    <img src="https://img.shields.io/badge/Deep%20Learning-Ready-yellow?logo=deepai" alt="Deep Learning Badge" />
+    <img src="https://img.shields.io/badge/TensorFlow-Installed-brightgreen?logo=tensorflow" alt="TensorFlow Badge" />
+    <img src="https://img.shields.io/badge/Deep%20Learning-Ready-yellow?logo=deepai" alt="Deep Learning Badge" /> <br>
     <img src="https://img.shields.io/badge/scikit--learn-Ready-blue?logo=scikit-learn" alt="scikit-learn Badge" />
     <img src="https://img.shields.io/badge/numpy-Installed-blue?logo=numpy" alt="numpy Badge" /> <br>
-    <img src="https://img.shields.io/badge/matplotlib-Installed-blue?logo=matplotlib" alt="matplotlib Badge" />
+    <img src="https://img.shields.io/badge/matplotlib-Installed-blue?logo=matplotlib" alt="matplotlib Badge" /> <br>
     <img src="https://img.shields.io/badge/pytorch-Installed-blue?logo=pytorch" alt="pytorch Badge" />
-    <img src="https://img.shields.io/badge/opencv-Ready-brightgreen?logo=opencv" alt="opencv Badge" /> <br>
-    
+    <img src="https://img.shields.io/badge/opencv-Ready-brightgreen?logo=opencv" alt="opencv Badge" />
+    <img src="https://img.shields.io/badge/Python-3.x-blue?logo=python" alt="Python Badge" />
 </p>
+
 
 ### Stats:
 <details>
