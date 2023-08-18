@@ -31,7 +31,7 @@ I am a Fresh Graduate majoring in Informatics, AKPRIND Institute of Science & Te
     <img src="https://img.shields.io/badge/TensorFlow-Installed-brightgreen?logo=tensorflow" alt="TensorFlow Badge" />
     <img src="https://img.shields.io/badge/Deep%20Learning-Ready-yellow?logo=deepai" alt="Deep Learning Badge" /> <br>
     <img src="https://img.shields.io/badge/scikit--learn-Ready-blue?logo=scikit-learn" alt="scikit-learn Badge" />
-    <img src="https://img.shields.io/badge/numpy-Installed-blue?logo=numpy" alt="numpy Badge" /> <br>
+    <img src="https://img.shields.io/badge/numpy-Installed-blue?logo=numpy" alt="numpy Badge" />
     <img src="https://img.shields.io/badge/matplotlib-Installed-blue?logo=matplotlib" alt="matplotlib Badge" /> <br>
     <img src="https://img.shields.io/badge/pytorch-Installed-blue?logo=pytorch" alt="pytorch Badge" />
     <img src="https://img.shields.io/badge/opencv-Ready-brightgreen?logo=opencv" alt="opencv Badge" />
