@@ -40,7 +40,7 @@ I am a Fresh Graduate majoring in Informatics, AKPRIND Institute of Science & Te
 
 
 ### Stats:
-<details>
+<!--<details>
  <summary><strong>What i am learning/working on these days</strong></summary>
     - 🔭 I’m currently working on RPA </br>
     - 🌱 I’m currently learning Python,SwiftUI and UIKit </br>
@@ -50,7 +50,7 @@ I am a Fresh Graduate majoring in Informatics, AKPRIND Institute of Science & Te
     - 📫 How to reach me: <a href="mailto:goodfe@yahoo.com">Email me!</a>  </br>
     - 😄 Pronouns: He/Him </br>
     - ⚡ Fun fact: ... </br>
-</details>
+</details>-->
 <p>
     <img src="https://github-readme-stats.vercel.app/api?username=projekbrillylutfan&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=projekbrillylutfan&layout=compact" height=180 />
@@ -65,8 +65,6 @@ I am a Fresh Graduate majoring in Informatics, AKPRIND Institute of Science & Te
 </p>
 
 <!--
-**bagusfe/bagusfe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
