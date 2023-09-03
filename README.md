@@ -23,6 +23,7 @@ I am a Fresh Graduate majoring in Informatics, AKPRIND Institute of Science & Te
 <p>
     <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL Logo">
     <img src="https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white" alt="PostgreSQL Logo">
+    <img src="https://img.shields.io/badge/MongoDB-%F0%9F%8D%83-green?logo=mongodb" alt="MongoDB Badge" />
 </p>
 
 ### Data Scientist Tools :
@@ -36,6 +37,25 @@ I am a Fresh Graduate majoring in Informatics, AKPRIND Institute of Science & Te
     <img src="https://img.shields.io/badge/pytorch-Installed-blue?logo=pytorch" alt="pytorch Badge" />
     <img src="https://img.shields.io/badge/opencv-Ready-brightgreen?logo=opencv" alt="opencv Badge" />
     <img src="https://img.shields.io/badge/Python-3.x-blue?logo=python" alt="Python Badge" />
+</p>
+
+### Web Development Tools :
+<p>
+    <img src="https://img.shields.io/badge/HTML5-%E2%9A%99%EF%B8%8F-orange?logo=html5" alt="HTML5 Badge" />
+    <img src="https://img.shields.io/badge/CSS3-%E2%9A%99%EF%B8%8F-blue?logo=css3" alt="CSS3 Badge" />
+    <img src="https://img.shields.io/badge/Bootstrap-%F0%9F%92%BC-purple?logo=bootstrap" alt="Bootstrap Badge" /> <br>
+    <img src="https://img.shields.io/badge/ReactJS-%E2%9A%9B%EF%B8%8F-blue?logo=react" alt="ReactJS Badge" />
+    <img src="https://img.shields.io/badge/Node.js-%E2%9A%99%EF%B8%8F-green?logo=node.js" alt="Node.js Badge" />
+    <img src="https://img.shields.io/badge/Express.js-%F0%9F%93%A6-black?logo=express" alt="Express.js Badge" /> <br>
+    <img src="https://img.shields.io/badge/Next.js-%E2%9E%A1-lightgrey?logo=next.js" alt="Next.js Badge" />
+    <img src="https://img.shields.io/badge/Swagger-%F0%9F%90%BE-blue?logo=swagger" alt="Swagger Badge" />
+    <img src="https://img.shields.io/badge/Jest-%F0%9F%A7%AA-ff69b4?logo=jest" alt="Jest Badge" /> <br>
+    <img src="https://img.shields.io/badge/CI/CD%20(Railway.app)-%F0%9F%9A%80-blueviolet?logo=railway" alt="CI/CD (Railway.app) Badge" />
+    <img src="https://img.shields.io/badge/Docker-%F0%9F%90%B3-blue?logo=docker" alt="Docker Badge" />
+    <img src="https://img.shields.io/badge/Socket.io-%F0%9F%94%8C-yellow?logo=socket.io" alt="Socket.io Badge" /> <br>
+    <img src="https://img.shields.io/badge/ESLint-%F0%9F%A7%B9-orange?logo=eslint" alt="ESLint Badge" />
+    <img src="https://img.shields.io/badge/Scrum-%F0%9F%94%80-blueviolet?logo=scrum" alt="Scrum Badge" />
+    <img src="https://img.shields.io/badge/TypeScript-%F0%9F%8F%B7-blue?logo=typescript" alt="TypeScript Badge" />
 </p>
 
 
